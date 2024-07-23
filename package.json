@@ -1,0 +1,7 @@
+{
+  "name": "node-fetch-benchmark",
+  "packageManager": "yarn@4.3.1",
+  "dependencies": {
+    "undici": "^6.19.4"
+  }
+}
